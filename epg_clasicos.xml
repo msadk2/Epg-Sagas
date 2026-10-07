@@ -52,4 +52,5 @@
   <programme start="20261011082600 +0200" stop="20261011101100 +0200" channel="Clasicos.247"><title lang="es">Un rey en Nueva York (1957)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
   <programme start="20261011101100 +0200" stop="20261011115100 +0200" channel="Clasicos.247"><title lang="es">El derecho a nacer (1966)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
 
-  <!-- PROGRAMACIÓN: MARVEL (SINCRONIZADO CON ANT-MAN Y LA AVISPA: QUANTUMANÍA EN TIEMPO REAL) -->
+  <!-- PROGRAMACIÓN: MARVEL (SINCRONIZADA PARA LA TARDE DE HOY) -->
+  <programme start="20261007174500 +0200" stop="20261007194200 +0200" channel="Marvel 24/7"><title lang="es">Ant-Man y la Avispa (2018)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
