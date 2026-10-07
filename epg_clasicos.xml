@@ -44,37 +44,37 @@
     <desc lang="es">Emisión continua 24/7.</desc>
   </programme>
 
-  <!-- PROGRAMACIÓN: MARVEL EXPANDIDA -->
+  <!-- PROGRAMACIÓN: MARVEL (TÍTULOS LIMPIOS) -->
   <programme start="20261007181000 +0200" stop="20261007200700 +0200" channel="Marvel 24/7">
-    <title lang="es">01 Ant-Man y la Avispa (2018)</title>
+    <title lang="es">Ant-Man y la Avispa (2018)</title>
     <desc lang="es">Emisión continua 24/7.</desc>
   </programme>
   <programme start="20261007200700 +0200" stop="20261007221200 +0200" channel="Marvel 24/7">
-    <title lang="es">02 Ant-Man y la Avispa: Quantumanía (2023)</title>
+    <title lang="es">Ant-Man y la Avispa: Quantumanía (2023)</title>
     <desc lang="es">Emisión continua 24/7.</desc>
   </programme>
   <programme start="20261007221200 +0200" stop="20261008002600 +0200" channel="Marvel 24/7">
-    <title lang="es">03 Black Panther (2018)</title>
+    <title lang="es">Black Panther (2018)</title>
     <desc lang="es">Emisión continua 24/7.</desc>
   </programme>
   <programme start="20261008002600 +0200" stop="20261008030700 +0200" channel="Marvel 24/7">
-    <title lang="es">04 Black Panther: Wakanda Forever (2022)</title>
+    <title lang="es">Black Panther: Wakanda Forever (2022)</title>
     <desc lang="es">Emisión continua 24/7.</desc>
   </programme>
   <programme start="20261008030700 +0200" stop="20261008051100 +0200" channel="Marvel 24/7">
-    <title lang="es">05 Capitana Marvel (2019)</title>
+    <title lang="es">Capitana Marvel (2019)</title>
     <desc lang="es">Emisión continua 24/7.</desc>
   </programme>
   <programme start="20261008051100 +0200" stop="20261008073800 +0200" channel="Marvel 24/7">
-    <title lang="es">06 Capitán América: Civil War (2016)</title>
+    <title lang="es">Capitán América: Civil War (2016)</title>
     <desc lang="es">Emisión continua 24/7.</desc>
   </programme>
   <programme start="20261008073800 +0200" stop="20261008094200 +0200" channel="Marvel 24/7">
-    <title lang="es">07 Capitán América: El primer vengador (2011)</title>
+    <title lang="es">Capitán América: El primer vengador (2011)</title>
     <desc lang="es">Emisión continua 24/7.</desc>
   </programme>
   <programme start="20261008094200 +0200" stop="20261008115800 +0200" channel="Marvel 24/7">
-    <title lang="es">08 Capitán América: El soldado de invierno (2014)</title>
+    <title lang="es">Capitán América: El soldado de invierno (2014)</title>
     <desc lang="es">Emisión continua 24/7.</desc>
   </programme>
 </tv>
