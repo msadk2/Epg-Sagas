@@ -2,7 +2,7 @@
 <tv>
   <channel id="Clasicos.247"><display-name>Cine Clásico 24/7</display-name></channel>
   <channel id="Marvel 24/7"><display-name>Marvel 24/7</display-name></channel>
-  <channel id="Mercenarios 24/7"><display-name>Saga Mercenarios e Indiana Jones</display-name></channel>
+  <channel id="Accion247"><display-name>Saga Mercenarios e Indiana Jones</display-name></channel>
 
   <!-- PROGRAMACIÓN: CINE CLÁSICO -->
   <programme start="20261007121000 +0200" stop="20261007144400 +0200" channel="Clasicos.247"><title lang="es">55 días en Pekín (1963)</title><desc lang="es">Emisión continua 24/7.</desc></programme>
