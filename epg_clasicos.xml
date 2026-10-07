@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-  <!-- CANAL 1: CINE CLÁSICO -->
+  <!-- DEFINE LOS CANALES -->
   <channel id="Clasicos.247">
     <display-name>Cine Clásico 24/7</display-name>
   </channel>
 
-  <!-- CANAL 2: MARVEL / SUPERHÉROES -->
   <channel id="Marvel 24/7">
     <display-name>Marvel 24/7</display-name>
   </channel>
 
-  <!-- PROGRAMACIÓN CANAL 1: CINE CLÁSICO -->
+  <!-- PROGRAMACIÓN: CINE CLÁSICO -->
   <programme start="20261007000000 +0200" stop="20261007023400 +0200" channel="Clasicos.247">
     <title lang="es">55 días en Pekín (1963)</title>
     <desc lang="es">Emisión continua 24/7 de la película clásica: 55 días en Pekín (1963).</desc>
@@ -72,8 +71,8 @@
     <desc lang="es">Emisión continua 24/7 de la película clásica: El chico (1921).</desc>
   </programme>
   <programme start="20261008051800 +0200" stop="20261008071900 +0200" channel="Clasicos.247">
-    <title lang="es">El expreso de midnight (1978)</title>
-    <desc lang="es">Emisión continua 24/7 de la película clásica: El expreso de midnight (1978).</desc>
+    <title lang="es">El expreso de medianoche (1978)</title>
+    <desc lang="es">Emisión continua 24/7 de la película clásica: El expreso de medianoche (1978).</desc>
   </programme>
   <programme start="20261008071900 +0200" stop="20261008092500 +0200" channel="Clasicos.247">
     <title lang="es">El gran dictador (1940)</title>
@@ -156,3 +155,4 @@
     <desc lang="es">Emisión continua 24/7 de la película clásica: Los guerrilleros (1962).</desc>
   </programme>
   <programme start="20261010032100 +0200" stop="20261010053200 +0200" channel="Clasicos.247">
+    <title lang="es">Los héroes de Telemark (1965)</title>
