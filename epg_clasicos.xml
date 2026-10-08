@@ -86,4 +86,105 @@
 <title lang="es" >La tienda de los horrores (1986)</title >
 <desc lang="es" >Emisión continua 24/7.</desc >
 </programme >
-</tv>  
+<programme start="20261011091200 +0200" stop="20261011115900 +0200" channel="Clasicos.247" >
+<title lang="es" >La vuelta al mundo en 80 días (1956)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261011115900 +0200" stop="20261011154700 +0200" channel="Clasicos.247" >
+<title lang="es" >Lawrence de Arabia (1962)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261011154700 +0200" stop="20261011194500 +0200" channel="Clasicos.247" >
+<title lang="es" >Lo que el viento se llevó (1939)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261011194500 +0200" stop="20261011210500 +0200" channel="Clasicos.247" >
+<title lang="es" >Los hermanos Marx en el oeste (1940)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261011210500 +0200" stop="20261011225900 +0200" channel="Clasicos.247" >
+<title lang="es" >Los Vikingos (1958)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >  
+<programme start="20261011225900 +0200" stop="20261012001900 +0200" channel="Clasicos.247" >
+<title lang="es" >Los guerrilleros (1963)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261012001900 +0200" stop="20261012023000 +0200" channel="Clasicos.247" >
+<title lang="es" >Los héroes de Telemark (1965)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261012023000 +0200" stop="20261012044500 +0200" channel="Clasicos.247" >
+<title lang="es" >Los puentes de Madison (1995)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261012044500 +0200" stop="20261012061200 +0200" channel="Clasicos.247" >
+<title lang="es" >Luces de la ciudad (1931)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261012061200 +0200" stop="20261012081500 +0200" channel="Clasicos.247" >
+<title lang="es" >Morituri (1965)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+<programme start="20261012081500 +0200" stop="20261012100500 +0200" channel="Clasicos.247" >
+<title lang="es" >Que el cielo la juzgue (1945)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261012100500 +0200" stop="20261012122600 +0200" channel="Clasicos.247" >
+<title lang="es" >Río Bravo (1959)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261012122600 +0200" stop="20261012141900 +0200" channel="Clasicos.247" >
+<title lang="es" >Sangre y arena (1989)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261012141900 +0200" stop="20261012154700 +0200" channel="Clasicos.247" >
+<title lang="es" >Senderos de gloria (1957)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261012154700 +0200" stop="20261012171400 +0200" channel="Clasicos.247" >
+<title lang="es" >Tiempos modernos (1936)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261012171400 +0200" stop="20261012185400 +0200" channel="Clasicos.247" >
+<title lang="es" >Un rey en Nueva York (1957)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261012185400 +0200" stop="20261012205800 +0200" channel="Clasicos.247" >
+<title lang="es" >El derecho de nacer (1966)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+<programme start="20261008213500 +0200" stop="20261008233200 +0200" channel="Marvel 24/7" >
+<title lang="es" >Ant-Man y la Avispa (2018)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261008233200 +0200" stop="20261009013700 +0200" channel="Marvel 24/7" >
+<title lang="es" >Ant-Man y la Avispa: Quantumanía (2023)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261009013700 +0200" stop="20261009035200 +0200" channel="Marvel 24/7" >
+<title lang="es" >Black Panther (2018)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+
+<programme start="20261009035200 +0200" stop="20261009063300 +0200" channel="Marvel 24/7" >
+<title lang="es" >Black Panther: Wakanda Forever (2022)</title >
+<desc lang="es" >Emisión continua 24/7.</desc >
+</programme >
+</tv>
